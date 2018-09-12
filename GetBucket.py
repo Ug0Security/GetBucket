@@ -139,7 +139,7 @@ printout ("################################################", RED)
 print ""
 
 #Change Cred before prod
-conn = tinys3.Connection('AKIAJUKCKFD62U6X4M6A', 'SBcnyCsC4EQY840SxQV9iSzpTf/PrTg4EXvbtmy8', tls=False)
+conn = tinys3.Connection('test', 'testpass', tls=False)
 
 def findbucket(domain):
 
