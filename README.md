@@ -1,6 +1,6 @@
 # GetBucket
 
-usage : python GetBucketV2.py -i wordlist10k -wa "%2Dbucket" --live 1 -sp 1 -t 100 -o output-bucket.txt
+usage : python GetBucketV2.py -i wordlist10k -wa "%2Dbucket" --live 1 -sp 1 -t 100 -p 1 -o output-bucket.txt
 
 output look like this : 
 
